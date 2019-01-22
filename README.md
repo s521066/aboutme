@@ -21,3 +21,9 @@ Also this repository is good to practice with Github and basic repository progra
 - [Git](https://git-scm.com/ "Git - homepage"): Git is a free and open source distributed version control system.
 - [WordPress](https://wordpress.com/ "WordPress - homepage"): WordPress is a 'anyone can use' simplified website publishing program.
 - [jQuery](https://jquery.com/ "jQuery - homepage"): jQuery is a JavaScript extension library.
+
+## Contributors
+
+My name is Chulho Yoon and I am a Public Accounting and MIS double major pursuing BS Science degree.
+
+![Hosted image](https://upload.wikimedia.org/wikipedia/commons/5/54/Manchester_United_v_Leicester_City%2C_September_2016_%2808%29.JPG "Manchester United")
